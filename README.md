@@ -28,3 +28,4 @@ Links
 * https://chips4makers.io/
 * https://hackaday.io/project/27091-chips4makers-pilot-retro-uc
 * https://github.com/Fatsie
+* https://twitter.com/fpga_dave/status/1053290842809683968
