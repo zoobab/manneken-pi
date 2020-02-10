@@ -3,10 +3,16 @@ Goal
 
 Burn an open RISC-V chip from an FPGA design.
 
+It is now possible to make your own chip from an open FPGA design via Chips4makers.io.
+
+Let's make one!
+
 Why?
 ====
 
 Because Belgians have the best chips.
+
+And because freedom matters.
 
 ![Belgians](manneken-pis-wikipedia.jpg)
 
